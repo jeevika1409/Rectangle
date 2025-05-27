@@ -1,4 +1,4 @@
-package Rectangle1;
+
 public class RectanglePerimeter {
     private double length;
     private double breadth;
