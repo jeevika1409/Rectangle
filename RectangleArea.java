@@ -1,4 +1,4 @@
-package Rectangle1;
+
 
 public class RectangleArea {
     private double length;
